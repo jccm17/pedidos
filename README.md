@@ -1,2 +1,1 @@
-# pedidos
-api rest java
+#Spring labs README
